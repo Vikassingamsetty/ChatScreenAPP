@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-ChatMessageScreen/Pods-ChatMessageScreen-frameworks.sh
+${BUILT_PRODUCTS_DIR}/InputBarAccessoryView/InputBarAccessoryView.framework
+${BUILT_PRODUCTS_DIR}/MessageKit/MessageKit.framework
